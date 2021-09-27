@@ -6,7 +6,7 @@
 
 [Skillpipe](https://skillpipe.com)
 
-[Learn on Demand](https://brainymotion.learnondemand.net)
+[Learn on Demand](https://brainymotion.learnondemand.net) (Register with Training Key)
 
 ---
 
