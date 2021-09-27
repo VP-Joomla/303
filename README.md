@@ -14,8 +14,6 @@
 
 [Redeem your Azure Pass code](https://github.com/www42/aztraining/blob/master/New-Tenant/Redeem-Azure-Pass.md)
 
-Eibach-Müller Q4DKYT1HEJ2LLVSE1N
-
 ---
 
 [Microsoft Training and Certification](https://aka.ms/traincertposter)
