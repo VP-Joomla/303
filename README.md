@@ -4,6 +4,12 @@
 
 [AZ-303 Labs](https://microsoftlearning.github.io/AZ-303-Microsoft-Azure-Architect-Technologies/)
 
+---
+
+[Lab Kubernetes](https://github.com/www42/AZ-303-Microsoft-Azure-Architect-Technologies/blob/master/tj/Demo_Kubernetes.azcli)
+
+---
+
 [Skillpipe](https://skillpipe.com)
 
 [Learn on Demand](https://brainymotion.learnondemand.net) (Register with Training Key)
