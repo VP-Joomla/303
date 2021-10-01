@@ -22,6 +22,10 @@
 
 ---
 
+[Feedback](https://www.metricsthatmatter.com/url/u.aspx?4C7F4895F174752672)
+
+---
+
 [Microsoft Training and Certification](https://aka.ms/traincertposter)
 
 [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
