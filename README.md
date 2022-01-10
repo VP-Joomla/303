@@ -4,6 +4,10 @@
 
 [AZ-303 Labs Step-by-Step](https://microsoftlearning.github.io/AZ-303-Microsoft-Azure-Architect-Technologies/)
 
+[AZ-303 Exam will retire on March 31, 2022](https://docs.microsoft.com/en-us/learn/certifications/exams/az-303)
+
+[AZ-305 Announcement](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/reimagining-the-azure-solutions-architect-expert-certification/ba-p/2813695)
+
 ## How to
 
 [Create a new Tenant in Azure AD](https://github.com/www42/aztraining/blob/master/New-Tenant/Create-Tenant.md) 
